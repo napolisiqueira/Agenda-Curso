@@ -5,7 +5,6 @@
         <p>
             <img src="https://img.shields.io/badge/Django-4.x-green" alt="Django 4.x" class="badge">
             <img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python 3.11" class="badge">
-            <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status: Em desenvolvimento" class="badge">
         </p>
 
   <h2>Funcionalidades</h2>
